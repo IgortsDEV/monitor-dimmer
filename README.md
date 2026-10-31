@@ -71,3 +71,7 @@ powershell -ExecutionPolicy Bypass -File build.ps1 -Out MonitorDimmer.exe
 ```
 
 The code is in [`MonitorDimmer.cs`](MonitorDimmer.cs), and [`build.ps1`](build.ps1) draws the icon and compiles it.
+
+## License
+
+[MIT](LICENSE). Use, change and share the code freely, as long as you keep the copyright notice that credits IgortsDEV.
