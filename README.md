@@ -7,7 +7,7 @@
 Your second screen has Discord, your third has a video, and neither is helping.<br>
 Monitor Dimmer turns the screens you aren't using black, so your eyes stay on the one that matters.
 
-**[Download MonitorDimmer.exe](../../releases/latest/download/MonitorDimmer.exe)**
+**[Download MonitorDimmer.exe](https://github.com/IgortsDEV/monitor-dimmer/releases/latest/download/MonitorDimmer.exe)**
 
 Free · Windows · about 25 KB · nothing to install
 
